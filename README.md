@@ -1,2 +1,2 @@
 # alx-frontend
-alx fronted repository
+alx frontend repository
